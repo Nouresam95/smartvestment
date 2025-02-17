@@ -7,9 +7,14 @@ import 'package:smartvestment/localization/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart'; // ✅ استيراد Provider
 import 'package:smartvestment/providers/language_provider.dart'; // ✅ استيراد LanguageProvider
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
+
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+    await dotenv.load(fileName: ".env"); // تحميل المتغيرات
    runApp(
     ChangeNotifierProvider(
       create: (context) => LanguageProvider(),
