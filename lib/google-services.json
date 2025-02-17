@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982439650206",
+    "project_id": "smartvestment-b4159",
+    "storage_bucket": "smartvestment-b4159.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982439650206:android:187b8515bf62fc7cfeec8f",
+        "android_client_info": {
+          "package_name": "com.smartvestment.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zEyIqHW8oPR5Gm2P-pNQNJCLsyA4eV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

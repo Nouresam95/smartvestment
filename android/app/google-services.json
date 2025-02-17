@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982439650206",
+    "project_id": "smartvestment-b4159",
+    "storage_bucket": "smartvestment-b4159.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982439650206:android:187b8515bf62fc7cfeec8f",
+        "android_client_info": {
+          "package_name": "com.smartvestment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982439650206-bjq4btq5pkakv6750q5vafm0blau5g42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartvestment.app",
+            "certificate_hash": "46cebbe4c207c139369d25063ac038a207cd4f01"
+          }
+        },
+        {
+          "client_id": "982439650206-3nmna1vt38ho6csk5013g6egoftn1pts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zEyIqHW8oPR5Gm2P-pNQNJCLsyA4eV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982439650206-3nmna1vt38ho6csk5013g6egoftn1pts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
