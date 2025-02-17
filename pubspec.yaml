@@ -38,8 +38,6 @@ dependencies:
   firebase_remote_config: ^5.4.0
   firebase_analytics: ^11.4.2
   file_picker: ^9.0.0
-  flutter_dotenv: ^5.2.1
-
 
 
 
